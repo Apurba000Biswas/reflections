@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Ans:
+when i initilize a repository a hidden file is created called .git . and i think i need to create commits by using this hidden file
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Ans:
+in staging area we can add one ore multiple file to add in a single commit and its also possible to reset a file from staging area
