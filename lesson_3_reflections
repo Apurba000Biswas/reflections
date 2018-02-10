@@ -25,4 +25,5 @@ Without using git i would colaborate may be using dropbox or other sharing syste
 
 (6)When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+AnsK
+if its still needs to modify or others can change some thing its better to change the separate branch first rather than the master branch . By adding it in saparate branche it can be easily modify and the master branch can onley contain the final version of the code thats not need to be modifyed.
