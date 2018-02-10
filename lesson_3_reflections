@@ -20,7 +20,8 @@ By having a copy of the last known state of the remote,its easy to find what cha
 
 (5)How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+Ans:
+Without using git i would colaborate may be using dropbox or other sharing systems i dont know.but its much easier to use git and it would be very hard to branching ,merging, commenting, pull requests etc .
 
 (6)When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
